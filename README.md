@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Astribus
-- 👀 I’m interested in ... Machine Learning and AI
+- 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Projects of any kind relating to AI/Tech innovation
 - 📫 How to reach me ... My Gmail vocal011108@gmail.com
