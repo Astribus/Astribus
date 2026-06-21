@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yue Chen
-- 👀 I’m interested in ... Artificial Intelligence
+- 👀 I’m interested in ... Badminton, ping pong, minesweeper and playing piano, violin, and the guitar.
 - 📚 I'm going to be attending Carnegie Mellon University majoring in Statistics & Machine Learning
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... AI/Tech and startups
