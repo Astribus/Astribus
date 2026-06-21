@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Astribus
-- 👀 I’m interested in ... Data Science
+- 👋 Hi, I’m Yue Chen
+- 👀 I’m interested in ... Artificial Intelligence
+- 📚 I'm going to be attending Carnegie Mellon University majoring in Statistics & Machine Learning
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Projects of any kind relating to AI/Tech innovation
-- 📫 How to reach me ... My Gmail vocal011108@gmail.com
+- 💞️ I’m looking to collaborate on ... AI/Tech and startups
+- 📫 How to reach me ... My Gmail is vocal011108@gmail.com
 - 😄 Pronouns: ... he/him
 
 
