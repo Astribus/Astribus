@@ -15,10 +15,6 @@ I like building things with data and ML, and I'm currently working on a startup.
 | [whitestone-vs-littleneck-311](https://github.com/Astribus/whitestone-vs-littleneck-311) | Pulled NYC Open Data 311 complaints via API to test whether a highway-adjacent ZIP gets more environmental complaints. Population-normalized: Whitestone had ~2.6x the rate of Little Neck. |
 | [Whitestone-Transit-Analysis](https://github.com/Astribus/Whitestone-Transit-Analysis) | Analyzing the reliability of a new transit system in Whitestone, Queens. |
 
-## 🛠️ Tools
-
-Python · pandas · Jupyter · PyTorch · SQL · Git
-
 ## 🎯 Interests
 
 Machine learning · LLMs · quant / trading · startups
