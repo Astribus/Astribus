@@ -1,13 +1,30 @@
-- 👋 Hi, I’m Yue Chen
-- 👀 I’m interested in ... Badminton, ping pong, minesweeper and playing piano, violin, and the guitar.
-- 📚 I'm going to be attending Carnegie Mellon University majoring in Statistics & Machine Learning
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... AI/Tech and startups
-- 📫 How to reach me ... My Gmail is vocal011108@gmail.com
-- 😄 Pronouns: ... he/him
+# Hi, I'm Yue Chen 👋
 
+First-year at **Carnegie Mellon University** studying **Data Science (Statistics & Machine Learning)** with a second major in **Artificial Intelligence**.
 
-<!---
-Astribus/Astribus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like building things with data and ML, and I'm currently working on a startup.
+
+## 🚧 Currently building
+
+**Thread** is an AI chat platform with persistent memory for students: *the memory you own*. It remembers your classes, deadlines, and how you think, so you never have to re-explain yourself.
+
+## 📊 Projects
+
+| Project | What it is |
+|---|---|
+| [whitestone-vs-littleneck-311](https://github.com/Astribus/whitestone-vs-littleneck-311) | Pulled NYC Open Data 311 complaints via API to test whether a highway-adjacent ZIP gets more environmental complaints. Population-normalized: Whitestone had ~2.6x the rate of Little Neck. |
+| [Whitestone-Transit-Analysis](https://github.com/Astribus/Whitestone-Transit-Analysis) | Analyzing the reliability of a new transit system in Whitestone, Queens. |
+
+## 🛠️ Tools
+
+Python · pandas · Jupyter · PyTorch · SQL · Git
+
+## 🎯 Interests
+
+Machine learning · LLMs · quant / trading · startups
+
+Off the keyboard: badminton, ping pong, minesweeper, and piano, violin, and guitar.
+
+## 📫 Reach me
+
+vocal011108@gmail.com
